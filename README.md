@@ -3,7 +3,7 @@
 
 cex交易所
 系统架构图
-![image](https://github.com/user-attachments/assets/5446af0b-4fbc-4e39-a6c6-a1802767cf9f)
+![未命名文件 (10)](https://github.com/user-attachments/assets/bb76e354-5dbc-4fec-a656-2183edd7aa7a)
 
 
 otc流程图：
