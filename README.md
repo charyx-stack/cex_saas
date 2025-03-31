@@ -2,6 +2,8 @@
 交易所
 
 cex交易所
+系统架构图
+![image](https://github.com/user-attachments/assets/5446af0b-4fbc-4e39-a6c6-a1802767cf9f)
 
 
 otc流程图：
@@ -15,3 +17,4 @@ otc流程图：
 
 仓位接管
 ![image](https://github.com/user-attachments/assets/d7734ff0-ddab-4595-860a-cfd913a2e518)
+
